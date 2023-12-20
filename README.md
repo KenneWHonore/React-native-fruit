@@ -1,0 +1,5 @@
+![photo_5771775016453652229_y](https://github.com/KenneWHonore/React-native-fruit/assets/146210912/26547170-d4da-42e7-95fe-3607ca5d4717)
+![photo_5771775016453652228_y](https://github.com/KenneWHonore/React-native-fruit/assets/146210912/81992eb6-308d-449a-b024-768dbfa15c4d)
+![photo_5771775016453652232_y](https://github.com/KenneWHonore/React-native-fruit/assets/146210912/381f3407-f8f1-4e55-bade-30d8fb15e3ce)
+![photo_5771775016453652231_y](https://github.com/KenneWHonore/React-native-fruit/assets/146210912/dc471801-d7c1-44db-818d-158f0d995aa2)
+![photo_5771775016453652230_y](https://github.com/KenneWHonore/React-native-fruit/assets/146210912/6b755e32-77c2-4df5-ac63-5130400281c8)
